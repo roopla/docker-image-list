@@ -1,0 +1,6 @@
+nginx
+apache2
+nginx:invalid
+alpine
+ubuntu
+myimage:v2
